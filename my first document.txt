@@ -1,0 +1,3 @@
+hi my name is chidi
+i'm a girl
+i use git
